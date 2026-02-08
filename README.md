@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shushi93
 - 👀 I’m interested in programming, and I also have a deep interest in gaming
-- 🌱 I’m currently learning python, am doing C++ in CCA, will be learning x86 Assembly later on, and have learnt and will be continuing the Web Dev Languages
+- 🌱 I've done CS50's course on Python and have even made a (game)[https://github.com/shushi93/Pushing-Boxes]. I have a keen interest in Cybersecurity.
 <!--- 💞️ I’m looking to collaborate on not anything actually-->
-- 📫 How to reach me: email - shuscrow@gmail.com OR shashi0396a@gmail.com
+- 📫 How to reach me: email - shashi0396a@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I dont have any fun fact, just that I play over 14 different games
+- ⚡ Fun fact: I dont have any fun fact, just that I play a bunch of different games (at least 6 actively)
 
 <!---
 shushi93/shushi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
