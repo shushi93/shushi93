@@ -16,6 +16,6 @@ Hackatime activity: <br>
         <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=18035&timezone=Asia%2FSingapore&labels=true&year=current&theme=dark">
         <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=18035&timezone=Asia%2FSingapore&labels=true&year=current&theme=light">
     </picture>
-</a>
-
+</a> <br>
+![Languages stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=18035&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8) <br>
 that's about it i guess
