@@ -10,4 +10,12 @@
 shushi93/shushi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Thats about it I guess
+Hackatime activity: <br>
+<a href="https://heatmap.shymike.dev?id=18035&timezone=Asia%2FSingapore&labels=true&year=current&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=18035&timezone=Asia%2FSingapore&labels=true&year=current&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=18035&timezone=Asia%2FSingapore&labels=true&year=current&theme=light">
+    </picture>
+</a>
+
+that's about it i guess
